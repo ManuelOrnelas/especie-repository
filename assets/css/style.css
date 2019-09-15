@@ -1157,7 +1157,6 @@ button:focus {
 	font-size: 28px;
 }
 .header_wrap.nav-fixed {
-	box-shadow: 0 0 1px rgba(0,0,0,0.5);
 	position: fixed;
 	right: 0;
 	left: 0;
