@@ -1977,7 +1977,7 @@ body.active {
 *===================================*/
 .banner_box {
 	background-color: #fff;
-	padding: 25px 10px;
+	padding: 25px 25px;
 	position: relative;
 	-moz-transition: transform .25s cubic-bezier(.68,-0.55,.27,1.55);
 	-webkit-transition: transform .25s cubic-bezier(.68,-0.55,.27,1.55);
